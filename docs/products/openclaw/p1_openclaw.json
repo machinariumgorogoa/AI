@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "OpenClaw",
+  "company": "GitHub开源社区",
+  "subCompany": "创始人Peter Steinberger 2026年2月加入OpenAI",
+  "date": "2026-01-25",
+  "tags": ["原版鼻祖", "MIT开源", "免费"],
+  "features": [
+    "GitHub 24万+ Stars，TypeScript独立开发（非Claude Code套壳）",
+    "多IM平台支持，50+内置技能，MCP协议支持",
+    "AI Agent框架鼻祖，ClawHub技能市场配套"
+  ],
+  "deploy": "本地/云端自托管",
+  "price": "完全免费",
+  "priceNote": "需自备API Key",
+  "models": ["Claude", "GPT", "DeepSeek", "+50模型"],
+  "status": "verified"
+}
